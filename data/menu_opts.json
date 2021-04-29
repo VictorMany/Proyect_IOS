@@ -32,6 +32,11 @@
             "ruta": "inputs",
             "icon": "input",
             "texto": "Inputs"
+        },
+        {
+            "ruta": "inputAnimation",
+            "icon": "input",
+            "texto": "Input with animation"
         }
     ]
 }
