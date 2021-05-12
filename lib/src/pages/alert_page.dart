@@ -86,7 +86,8 @@ class AlertPage extends StatelessWidget {
                           fit: BoxFit.fill,
                           image: new NetworkImage(
                               'https://i.pinimg.com/originals/0a/ae/f8/0aaef88d8ae7e31dde8dc44b6751ad05.png')),
-                    )),
+                      )
+                    ),
               ],
             ),
             actions: <Widget>[

@@ -11,7 +11,7 @@ class HomePageAlternativo extends StatelessWidget {
     'Siete',
     'Ocho'
   ];
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(

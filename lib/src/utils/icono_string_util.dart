@@ -7,6 +7,7 @@ final _icons = <String, IconData>{
   'library_music': Icons.donut_large,
   'mobile_screen_share': Icons.input,
   'settings_input_antenna': Icons.settings_input_antenna,
+  'tune': Icons.tune,
 };
 
 Icon getIcon(String nombreIcono) {
