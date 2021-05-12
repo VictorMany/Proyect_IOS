@@ -34,10 +34,16 @@
             "texto": "Inputs"
         },
         {
+<<<<<<< HEAD
             "ruta": "slider",
             "icon": "tune",
             "texto": "Sliders",
             "subb": "blablabla"
+=======
+            "ruta": "inputAnimation",
+            "icon": "input",
+            "texto": "Input with animation"
+>>>>>>> ba7ffbf52047201cec1b9092c83aa4fe46bdcafe
         }
     ]
 }
